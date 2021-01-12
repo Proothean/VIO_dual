@@ -18,7 +18,8 @@ cd ../
 catkin_make
 ```
 
-## 3. Download dataset
+Download dataset:
+
 [EuRoC MAV Dataset](https://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets)。
 
 Open a terminal：
@@ -41,6 +42,6 @@ Play dataset on another terminal with：
 rosbag play YOUR_PATH_TO_DATASET/YOUR_DATASET.bag 
 ```
 
-## 4.Reference
+## 3.Reference
 T.Qin, P.L.Li, S.J.Shen, VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator.
 
