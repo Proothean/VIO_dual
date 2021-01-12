@@ -1,7 +1,7 @@
 # VIO-Dual：Stero VIO based on VINS_mono
 
 
-## Requirements
+## 1.Requirements
 ```
 Ubuntu 16.04/Ubuntu 18.04
 ROS Kinetic/melodic
@@ -41,6 +41,6 @@ Play dataset on another terminal with：
 rosbag play YOUR_PATH_TO_DATASET/YOUR_DATASET.bag 
 ```
 
-## 5.Reference
+## 4.Reference
 T.Qin, P.L.Li, S.J.Shen, VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator.
 
